@@ -46,6 +46,8 @@ The purpose of this analysis is to see which resampling method and machine learn
 * Recall Score: 89%
 
 ### Easy Ensemble AdaBoost Classifier 
+![image](https://user-images.githubusercontent.com/100391913/199614268-b174519b-196c-4119-98dd-657cde833e86.png)
+![image](https://user-images.githubusercontent.com/100391913/199614325-b3cc68da-43f6-4d31-b767-9b584dffb77b.png)
 
 * Balanced Accuracy Score:92%
 * Precision Score: 99%
